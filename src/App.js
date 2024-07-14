@@ -26,3 +26,5 @@ function App(){
   </>
 }
 export default App;
+
+// https://www.youtube.com/watch?v=DCoIeGt4g7M&t=509s
